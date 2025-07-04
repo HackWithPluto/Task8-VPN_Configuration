@@ -29,6 +29,10 @@ Understand the role of VPNs in protecting privacy and secure communication.
 - May be blocked by some services
 - Requires trust in VPN provider
 
+## Username and Password
+- Username: vpnbook
+- Password: c3wrex2
+
 ##  Screenshots:
 -  VPN connected status  
 -  Changed IP address screenshot  
